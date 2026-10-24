@@ -1,2 +1,5 @@
-DockerFile
-node_modules
+Dockerfile
+node_modules/
+**/node_modules/
+.git
+.gitignore
